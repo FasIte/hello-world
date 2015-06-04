@@ -1,2 +1,3 @@
 # hello-world
-GIT Tutorial project
+GIT Tutorial project by FasIte
+To get started
